@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-My mind races 24-7.  I’m constantly observing and questioning, pondering how to innovate the smallest details to improve the user experience.  Adding to the value of the human experience through good design:
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-this is what excites me…this is what drives me.
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jekyll" %} /
+[minima](https://github.com/jekyll/minima)
 
-
-Email: [hello@williamfelker.com
-](mailto:hello@williamfelker.com)
-Phone: 608.719.8578
-
-![](/content/images/2017/02/2017.png)
-
-[Download Resume](https://www.dropbox.com/s/nt5kdoikde1mp4x/WFelker_2017.pdf?dl=0)
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
