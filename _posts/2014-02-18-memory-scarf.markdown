@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memory Scarf
+title: "Memory Scarf"
 date: '2014-02-18 05:05:00'
 tags:
 - prototyping
@@ -8,23 +8,23 @@ tags:
 - wearables
 ---
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/7QDRpHOkg91GSJ" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7QDRpHOkg91GSJ" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 > Enable heirlooms to act as vessels for memories that connect generations.
 
 ---
 
 #RESEARCH
- 
+
 Memory is a tricky thing. It is fragile, robust, and meaningful. We often lack appreciation of memories in the moment, only to find them important in the years ahead. These reasons are part of what motivated me to examine how we could use a garment to expand and share our memory. The process for this project was heavily inspired by the relationship that I have with my grandparents who used to live in California where I currently reside. I realized I knew very little about when they lived here and what they did. When I started exploring memory, I immediately recalled a talk that I heard from Wilson Miner from the Build 2011 conference in which he discusses objects being vessels for memory.
 
 
-As I researched the meaning behind objects, curiosity was sparked in the relationship between heirlooms and totems. These are often the names we give to belongings that are more meaningful to us than everyday objects. They are the things that we keep near and the things that help us remember. 
+As I researched the meaning behind objects, curiosity was sparked in the relationship between heirlooms and totems. These are often the names we give to belongings that are more meaningful to us than everyday objects. They are the things that we keep near and the things that help us remember.
 
 There is a special relationship in how we interact with these objects. Some we keep safely locked away, some we cannot help but hold near, and often they help us to share stories of the past with others.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nsfmGl4uGEIUB7" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
- 
+
 ---
 
 #DESIGN PRINCIPLES
@@ -50,7 +50,7 @@ One of the first concepts combined audio recording with geo location by embeddin
 ![](/content/images/2016/04/IXDSN-350-02_Prjct_03_Final-016.png)
 
 The second iteration focused on a scarf-hoodie combination in which the same two modes would exist and would be linked to the hood being up and the hood being down. The shift in form was primarily due to trying to amplify the feeling of warmth and intimacy by creating an environment which allowed you to feel semi-isolated anywhere.
- 
+
 ![](/content/images/2016/04/IXDSN-350-02_Prjct_03_Final-017-1.png)
 
 After testing both variations of the muslin prototypes and interviewing individuals on the surrounding eco-systems, I determined that the ability to record based on location did not need to be combined; rather, the functions should be able to work independently of one another. Although the ability to receive information based on a specific location still interests me, my focus shifted to honing the experience between recording and playing back audio. This way the focus can be drawn to the meaning behind the content.
