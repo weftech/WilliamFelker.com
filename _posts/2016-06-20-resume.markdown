@@ -1,0 +1,9 @@
+---
+layout: post
+title: Resume
+date: '2016-06-20 23:04:23'
+---
+
+![](/content/images/2017/02/WFelker_2017.png)
+
+My resume can be downloaded [here](https://www.dropbox.com/s/nt5kdoikde1mp4x/WFelker_2017.pdf?dl=0).
