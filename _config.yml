@@ -14,15 +14,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: wf
+author: William Felker
+
 email: hello@williamfelker.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.williamfelker.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: weftech
 github_username:  weftech
+
+#Styling
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+# Collectons
+collections:
+  project: #All Projects as a compleated iteam
+    output: true
+  research: #Mini Clusters information in
+    output: true
 
 # Build settings
 markdown: kramdown
