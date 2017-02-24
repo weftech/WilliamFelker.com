@@ -4,7 +4,6 @@
 ###########
 ---
 
-
 @import 'settings';
 
 html {
@@ -33,6 +32,41 @@ a {
         text-decoration: underline;
     }
 }
+
+.nav li a:hover {
+    color: #fd3d0a;
+}
+
+.nav a:active,
+.nav a:hover {
+    color: #666;
+}
+
+.nav a {
+    display: inline-block;
+    transition: opacity 300ms, transform 400ms;
+    touch-action: manipulation;
+    position: relative;
+}
+
+.landing-list a, a:link  {
+
+    border: 0;
+    text-decoration: none;
+    text-decoration-color: currentcolor;
+    text-decoration-line: none;
+    list-style-type: none;
+}
+
+
+.landing-list a:hover  {
+
+}
+
+.landing-list a:visited  {
+
+}
+
 ////////////////////////////
 // Headings
 
@@ -98,7 +132,11 @@ dd {
     margin-bottom: 0.5rem;
 }
 
-
+.landing-list dl,ul,ol  {
+    list-style-type: none;
+    display: block;
+    text-align: left;
+}
 //////////////////////
 // Code
 
